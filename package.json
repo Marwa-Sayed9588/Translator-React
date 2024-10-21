@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    // ... your dependencies
+    
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {},
   "scripts": {
